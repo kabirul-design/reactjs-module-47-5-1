@@ -1,0 +1,38 @@
+[
+    {
+      "id": "6238ddd7fa5fe6a944296b29",
+      "price": 176,
+      "brand": "blue",
+      "name": "Rene Berry"
+    },
+    {
+      "id": "6238ddd700ffe81eba041301",
+      "price": 143,
+      "brand": "blue",
+      "name": "York Fry"
+    },
+    {
+      "id": "6238ddd7a30acfd1befe4028",
+      "price": 508,
+      "brand": "blue",
+      "name": "Priscilla Fox"
+    },
+    {
+      "id": "6238ddd7119cb5741e30a08d",
+      "price": 434,
+      "brand": "blue",
+      "name": "Margo Goff"
+    },
+    {
+      "id": "6238ddd7374391aa56ad51cb",
+      "price": 454,
+      "brand": "brown",
+      "name": "Holt Hoffman"
+    },
+    {
+      "id": "6238ddd7c752258149617773",
+      "price": 184,
+      "brand": "blue",
+      "name": "Connie Hatfield"
+    }
+  ]
